@@ -1,6 +1,10 @@
 # Hi there, I'm Panya Kapoor! 👋
 
-✨ Passionate about creating meaningful tech solutions, crafting beautiful user experiences, and constantly learning new things.
+✨ Passionate about creating meaningful tech solutions, crafting beautiful user experiences, and constantly learning new things. 
+
+<p display="inline-block">
+  <img src="https://komarev.com/ghpvc/?username=panyakapoor1&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
+</p>
 
 ---
 
@@ -106,14 +110,6 @@ Besides coding, you’ll often find me:
   <a href="https://x.com/panya_kapoor"><img src="https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white" /></a>
   <a href="mailto:panyakapoor1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=panyakapoor1&icon=0&color=0" />
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
