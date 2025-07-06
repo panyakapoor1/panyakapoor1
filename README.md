@@ -104,8 +104,8 @@ Besides coding, you’ll often find me:
 ## 🔗 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/panyakapoor1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/soitsjustforfun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/panya-kapoor-43178427b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_panyakpr1/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="https://pinterest.com/panyakapoor1"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat-square&logo=Pinterest&logoColor=white" /></a>
   <a href="https://x.com/panya_kapoor"><img src="https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white" /></a>
   <a href="mailto:panyakapoor1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
