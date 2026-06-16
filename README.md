@@ -16,6 +16,18 @@
 - 📚 Learning something new every day: Web Dev, Open Source, AI & More!
 
 ---
+## 🎵 Currently Vibing To
+
+<p align="center">
+
+<a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=yjwgbf199w6q6xdtlwwrj112j&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true"/>
+
+</a>
+
+</p>
+---
 
 ## 💻 Tech Stack
 
