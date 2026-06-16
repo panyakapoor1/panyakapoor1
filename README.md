@@ -65,7 +65,7 @@ I'm constantly learning, experimenting, and turning ideas into products people g
 
 Contributed to **[SpectraX](https://github.com/panyakapoor1/spectrax_1)** - an AI-powered fitness companion that tracks workouts, analyzes body posture in real time, and visualizes movement in 3D directly from the browser. No wearables, no external hardware. 
 
-Successfully merged my first open-source Pull Request, contributing smooth scrolling integration with Lenis to enhance the user experience.
+Successfully merged my first open-source Pull Request, contributing smooth scrolling integration with Lenis to enhance the user experience. Issue #792
 
 This is the start of my open-source journey - learning by doing, collaborating on real problems, and shipping things that matter.
 
