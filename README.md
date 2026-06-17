@@ -19,7 +19,7 @@ I enjoy building things sometimes an AI-powered copilot, sometimes research focu
 I'm constantly learning, experimenting, and turning ideas into products people genuinely enjoy using.
 
 - 🎓 B.Tech Computer Science & Engineering @ **SRM Institute of Science and Technology** (2023–2027)
-- 🏆 **9.80 CGPA** | Smart India Hackathon & HackIndia participant
+- 🏆 **9.76 CGPA** | Smart India Hackathon & HackIndia participant
 - 🔬 Research paper *"A Framework for Sustainable AI"* - under review
 - 🌱 Exploring **Open Source** and real-world software development
 - 🧠 Sharpening **DSA** and system design thinking
